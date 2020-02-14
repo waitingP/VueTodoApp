@@ -1,5 +1,8 @@
 # vue-app
 
+## Info
+This is a exercise project following the tutorial [here](https://www.taniarascia.com/getting-started-with-vue/), which helps me get familiar with Vue. 
+
 ## Project setup
 ```
 npm install
@@ -19,6 +22,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
